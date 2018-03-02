@@ -10,6 +10,8 @@ services:
     ports:
       - 3306
     remoteAccess: false
+    comments:
+        username: Database will be created with the same name
     deployTo:
       - main
       - secondary

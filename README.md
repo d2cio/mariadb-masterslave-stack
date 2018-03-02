@@ -1,4 +1,4 @@
-# MariaDB Master-Slave stack for D2C.io
+# MariaDB Master-Slave+phpMyAdmin stack for D2C.io
 
 ## How to deploy a stack
 
